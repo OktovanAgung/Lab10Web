@@ -9,6 +9,8 @@
 
 # Langkah - Langkah Praktikum
 
+## Buat folder baru dengan nama **lab10_php_oop** pada docroot webserver (**htdocs**)
+
 ## Buat file baru dengan nama **mobil.php**
 ![img](img/mobilphp.png)
 
