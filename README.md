@@ -14,3 +14,6 @@
 
 ## Buat file baru dengan nama **form.php**
 ![img](img/formphp.png)
+
+## Buat file baru dengan nama **form_input_.php**
+![img](img/forminputphp.png)
