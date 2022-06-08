@@ -10,3 +10,7 @@
 # Langkah - Langkah Praktikum
 
 ## Buat file baru dengan nama **mobil.php**
+![img](img/mobilphp.png)
+
+## Buat file baru dengan nama **form.php**
+![img](img/formphp.png)
